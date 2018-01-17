@@ -1,2 +1,2 @@
 # AnalysisandDesignofPrograms
-UPIITA-Mecatrónica
+Análisis y Diseño de Programas UPIITA
